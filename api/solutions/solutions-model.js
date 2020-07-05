@@ -80,5 +80,6 @@ function checkSolution(solution) {
         return false;
       }
     }
-  }
+  };
+  return true;
 }
